@@ -1,0 +1,7 @@
+unidecode
+celery>=5.2
+beautifulsoup4
+requests
+aiohttp
+selenium
+webdriver-manager
