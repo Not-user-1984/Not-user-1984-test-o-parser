@@ -1,11 +1,11 @@
-import asyncio
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 # from webdriver_manager.chrome import ChromeDriverManager
 
 
-async def process_page(url, page_number):
+def get_main_page(url, page_number):
     chrome_options = Options()
     chrome_options.headless = True
 
@@ -19,7 +19,7 @@ async def process_page(url, page_number):
         browser.get(url)
 
         # Ждем некоторое время для загрузки страницы (если необходимо)
-        await asyncio.sleep(5)
+        time.sleep(5)
 
         # Получаем HTML-код страницы
         page_content = browser.page_source

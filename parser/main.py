@@ -1,13 +1,12 @@
-from parser.get_main_html import process_page
-import aiohttp
-import asyncio
+from parser.get_main import get_main_page
+from parser.parser import process_page
 
-async def main():
+def main():
     url_template = "https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page={}"
-    total_pages = 5
-    async with aiohttp.ClientSession() as session:
-        tasks = [process_page(url_template.format(page_number), page_number) for page_number in range(1, total_pages + 1)]
-        await asyncio.gather(*tasks)
+    total_pages = 1
+    for page_number in range(1, total_pages + 1):
+        get_main_page(url_template.format(page_number), page_number)
+        process_page(page_number)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
