@@ -1,12 +1,5 @@
 from bs4 import BeautifulSoup
-import re
 from unidecode import unidecode
-
-
-def generate_filename(text):
-    text_lower = text.lower()
-    movie_name_translit = re.sub(r'\s+', '_', unidecode(text_lower))
-    return movie_name_translit
 
 
 def read_html_file(file_path):
@@ -18,8 +11,6 @@ def write_html_file(file_path, content):
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
-
-# Функция для поиска всех продуктов на странице и вывода их в принт
 def process_page(page_number):
     html_content = read_html_file(f"parser/html/page_{page_number}.html")
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -32,7 +23,7 @@ def process_page(page_number):
     all_products_html = ""
     div_ = '<div class="item">'
     _div = '</div>'
-    for  product in first_product:
+    for product in first_product:
         page_content = str(product)
         # Сохраняем HTML-код каждого продукта страницы в файл
         if page_content != " ":
