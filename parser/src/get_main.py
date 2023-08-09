@@ -19,7 +19,7 @@ def get_main_page(url, page_number):
 
         logger.info(f"Загрузка страницы {url}")
         browser.get(url)
-        time.sleep(5)
+        time.sleep(10)
         page_content = browser.page_source
 
         soup = BeautifulSoup(page_content, 'html.parser')

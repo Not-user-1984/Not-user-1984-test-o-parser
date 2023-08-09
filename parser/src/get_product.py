@@ -2,6 +2,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 from logger.logger import logger
+import re
 
 
 def read_html_file(file_path):
@@ -16,17 +17,24 @@ def save_to_json(data, filename):
 
 def extract_product_info(product_element):
     product = {}
+    # name
     name_element = product_element.find("div", class_="dx3")
     if name_element and name_element.find("span", class_="tsBody500Medium"):
         product["name"] = name_element.find(
             "span", class_="tsBody500Medium").text.strip()
+    else:
+        product["name"] = "Название не найдено"
 
+    # price
     price_element = product_element.find(
         "span", class_="c3-a1 tsHeadline500Medium c3-b9")
     discount_element = product_element.find(
         "span", class_="tsBodyControl400Small c3-a2 c3-a7 c3-b1")
     if price_element and discount_element:
-        product["price"] = price_element.text.strip()
+        price_text = price_element.text.strip()
+        price_without_spaces = price_text.replace(" ", "")
+        price_without_currency = re.sub(r'[^\d]', '', price_without_spaces)
+        product["price"] = int(price_without_currency)
         product["discount"] = discount_element.text.strip()
 
     image_element = product_element.find("img", class_="c9-a")
@@ -34,9 +42,15 @@ def extract_product_info(product_element):
         product["image_url"] = image_element.get("src")
     link_element = product_element.find("a", href=True)
 
+
     if link_element and link_element.get("href"):
-        link = "https://www.ozon.ru/" + link_element.get("href")
-        product["product_url"] = link
+            match = re.search(r'-(\d+)/', link_element.get("href"))
+            if match:
+                extracted_number = match.group(1)
+                product["code_product"] = int(extracted_number)
+            else:
+                product["code_product"] = 00000000
+
     return product
 
 
@@ -59,9 +73,9 @@ def get_products_in_json(pages):
         all_products.extend(products_on_page)
 
     output_data = {"product": all_products}
-    if not os.path.exists("parser/src/json_items"):
-        os.makedirs("parser/src/json_items")
+    if not os.path.exists("backend/product_ozon/migrations/json_items"):
+        os.makedirs("backend/product_ozon/migrations/json_items")
 
-    json_filename = "parser/src/json_items/all_products.json"
+    json_filename = "backend/product_ozon/migrations/json_items/all_products.json"
     save_to_json(output_data, json_filename)
     logger.info(f"Все данные сохранены в Json co страницы: {pages}")

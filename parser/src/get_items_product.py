@@ -9,8 +9,7 @@ def read_html_file(file_path):
 def process_page(page_number):
     html_content = read_html_file(f"parser/src/html/page_{page_number}.html")
     soup = BeautifulSoup(html_content, 'html.parser')
-    main_container = soup.find(
-        'div', attrs={'class': 'widget-search-result-container q4i'})
+    main_container = soup.find("div", class_="widget-search-result-container")
     if not main_container:
         err = "Продукты не найдены или такого номера страница не существует"
         logger.error(err)

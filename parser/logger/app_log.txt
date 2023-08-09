@@ -823,3 +823,705 @@
 2023-08-09 17:26:33,039 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
 2023-08-09 17:26:33,040 - logger.logger - INFO - Закрытие браузера
 2023-08-09 17:26:33,226 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
+2023-08-09 18:51:40,149 - logger.logger - INFO - Запуск парсера на 15 страниц
+2023-08-09 18:51:42,511 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 18:51:48,384 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 18:51:48,384 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:51:48,520 - logger.logger - ERROR - Продукты не найдены или такого номера страница не существует
+2023-08-09 18:52:46,284 - logger.logger - INFO - Запуск парсера на 15 страниц
+2023-08-09 18:52:48,692 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 18:52:54,877 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 18:52:54,877 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:52:55,021 - logger.logger - ERROR - Продукты не найдены или такого номера страница не существует
+2023-08-09 18:56:20,592 - logger.logger - INFO - Запуск парсера на 15 страниц
+2023-08-09 18:56:22,837 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 18:56:29,077 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 18:56:29,077 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:56:29,335 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 18:56:29,393 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 18:56:29,393 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 18:56:30,847 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 18:56:38,703 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 18:56:38,704 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:56:38,885 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 18:56:39,003 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 18:56:39,003 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 18:56:40,364 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 18:56:47,245 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 18:56:47,246 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:56:47,427 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 18:56:47,578 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 18:56:47,578 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 18:56:48,919 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 18:56:54,911 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 18:56:54,911 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:56:55,095 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 18:56:55,305 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 18:56:55,305 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 18:56:56,620 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 18:57:02,997 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 18:57:02,997 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:03,166 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 18:57:03,413 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 18:57:03,413 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 18:57:04,825 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 18:57:11,407 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 18:57:11,408 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:11,582 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 18:57:11,850 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 18:57:11,850 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 18:57:13,184 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 18:57:19,353 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 18:57:19,353 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:19,544 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 18:57:19,856 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 18:57:19,856 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 18:57:21,160 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 18:57:27,301 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 18:57:27,301 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:27,482 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 18:57:27,865 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 18:57:27,865 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 18:57:29,167 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 18:57:35,589 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 18:57:35,590 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:35,766 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 18:57:36,190 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 18:57:36,190 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 18:57:37,534 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 18:57:43,764 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 18:57:43,764 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:43,960 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 18:57:44,429 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 18:57:44,430 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 18:57:45,757 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=11
+2023-08-09 18:57:52,040 - logger.logger - INFO - Страница 11 сохранена в файл: parser/src/html/page_11.html
+2023-08-09 18:57:52,040 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:57:52,217 - logger.logger - INFO - Страница 11 сохранена в файл: parser/src/html/page_11.html
+2023-08-09 18:57:52,711 - logger.logger - INFO - Все данные сохранены в Json co страницы: 11
+2023-08-09 18:57:52,711 - logger.logger - INFO - Все задачи выполнены обработанo 11
+2023-08-09 18:57:54,049 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=12
+2023-08-09 18:58:00,847 - logger.logger - INFO - Страница 12 сохранена в файл: parser/src/html/page_12.html
+2023-08-09 18:58:00,847 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:58:01,020 - logger.logger - INFO - Страница 12 сохранена в файл: parser/src/html/page_12.html
+2023-08-09 18:58:01,557 - logger.logger - INFO - Все данные сохранены в Json co страницы: 12
+2023-08-09 18:58:01,557 - logger.logger - INFO - Все задачи выполнены обработанo 12
+2023-08-09 18:58:02,868 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=13
+2023-08-09 18:58:09,488 - logger.logger - INFO - Страница 13 сохранена в файл: parser/src/html/page_13.html
+2023-08-09 18:58:09,488 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:58:09,637 - logger.logger - INFO - Страница 13 сохранена в файл: parser/src/html/page_13.html
+2023-08-09 18:58:10,213 - logger.logger - INFO - Все данные сохранены в Json co страницы: 13
+2023-08-09 18:58:10,213 - logger.logger - INFO - Все задачи выполнены обработанo 13
+2023-08-09 18:58:11,524 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=14
+2023-08-09 18:58:17,630 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
+2023-08-09 18:58:17,630 - logger.logger - INFO - Закрытие браузера
+2023-08-09 18:58:17,749 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
+2023-08-09 19:02:48,640 - logger.logger - INFO - Запуск парсера на 3 страниц
+2023-08-09 19:02:50,883 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:02:58,470 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:02:58,471 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:02:58,668 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:02:58,719 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 19:02:58,719 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 19:03:00,058 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 19:03:06,215 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:03:06,216 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:03:06,393 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:03:06,511 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 19:03:06,511 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 19:03:07,833 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 19:03:14,016 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:03:14,017 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:03:14,195 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:03:14,367 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 19:03:14,368 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 19:03:14,368 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 19:04:35,433 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 19:04:37,886 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:04:44,141 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:04:44,141 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:04:44,349 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:04:44,398 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 19:04:44,398 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 19:04:45,773 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 19:04:52,709 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:04:52,709 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:04:52,881 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:04:53,000 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 19:04:53,000 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 19:04:54,325 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 19:05:00,871 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:05:00,871 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:01,047 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:05:01,199 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 19:05:01,199 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 19:05:02,493 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 19:05:10,213 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:05:10,214 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:10,393 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:05:10,595 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 19:05:10,595 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 19:05:11,966 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 19:05:18,518 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:05:18,519 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:18,713 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:05:18,949 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 19:05:18,949 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 19:05:20,268 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 19:05:26,659 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:05:26,660 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:26,836 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:05:27,117 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 19:05:27,117 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 19:05:28,384 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 19:05:35,542 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:05:35,542 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:35,745 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:05:36,065 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 19:05:36,065 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 19:05:37,414 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 19:05:43,983 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:05:43,984 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:44,178 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:05:44,553 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 19:05:44,553 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 19:05:45,924 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 19:05:52,263 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:05:52,264 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:05:52,481 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:05:52,883 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 19:05:52,883 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 19:05:54,195 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 19:06:00,927 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:06:00,927 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:06:01,107 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:06:01,572 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 19:06:01,573 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 19:06:01,573 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 19:37:28,497 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 19:37:30,992 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:37:38,486 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:37:38,486 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:37:38,685 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:43:02,768 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 19:43:05,123 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:43:11,662 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:43:11,662 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:11,857 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:43:11,907 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 19:43:11,908 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 19:43:13,252 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 19:43:19,298 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:43:19,298 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:19,486 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:43:19,608 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 19:43:19,608 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 19:43:20,912 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 19:43:26,877 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:43:26,877 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:27,085 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:43:27,258 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 19:43:27,258 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 19:43:28,595 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 19:43:34,591 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:43:34,591 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:34,793 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:43:35,015 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 19:43:35,015 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 19:43:36,346 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 19:43:43,067 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:43:43,068 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:43,261 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:43:43,498 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 19:43:43,498 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 19:43:44,815 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 19:43:50,730 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:43:50,730 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:50,910 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:43:51,198 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 19:43:51,198 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 19:43:52,544 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 19:43:58,833 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:43:58,834 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:43:59,030 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:43:59,349 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 19:43:59,349 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 19:44:00,651 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 19:44:06,767 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:44:06,768 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:44:07,028 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:44:07,389 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 19:44:07,389 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 19:44:08,732 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 19:44:14,745 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:44:14,745 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:44:14,978 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:44:15,482 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 19:44:15,482 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 19:44:16,909 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 19:44:23,365 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:44:23,366 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:44:23,543 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:44:24,017 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 19:44:24,017 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 19:44:24,017 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 19:47:30,469 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 19:47:32,725 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:47:40,137 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:47:40,138 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:47:40,328 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:51:27,656 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 19:51:29,944 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 19:51:36,687 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:51:36,687 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:51:36,878 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 19:51:36,926 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 19:51:36,926 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 19:51:38,239 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 19:51:44,267 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:51:44,268 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:51:44,450 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 19:51:44,567 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 19:51:44,567 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 19:51:45,870 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 19:51:51,966 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:51:51,966 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:51:52,143 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 19:51:52,299 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 19:51:52,299 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 19:51:53,636 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 19:51:59,787 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:51:59,787 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:51:59,990 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 19:52:00,211 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 19:52:00,211 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 19:52:01,571 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 19:52:08,647 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:52:08,648 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:08,880 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 19:52:09,150 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 19:52:09,151 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 19:52:10,522 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 19:52:17,046 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:52:17,046 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:17,220 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 19:52:17,496 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 19:52:17,496 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 19:52:18,803 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 19:52:25,270 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:52:25,271 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:25,466 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 19:52:25,781 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 19:52:25,781 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 19:52:27,066 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 19:52:33,047 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:52:33,047 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:33,239 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 19:52:33,591 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 19:52:33,591 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 19:52:34,961 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 19:52:41,222 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:52:41,222 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:41,410 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 19:52:41,801 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 19:52:41,801 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 19:52:43,144 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 19:52:49,635 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:52:49,636 - logger.logger - INFO - Закрытие браузера
+2023-08-09 19:52:49,806 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 19:52:50,274 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 19:52:50,275 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 19:52:50,275 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 21:03:51,372 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 21:03:55,750 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 21:04:01,807 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 21:04:01,808 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:02,018 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 21:04:02,068 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 21:04:02,068 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 21:04:03,425 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 21:04:09,598 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 21:04:09,598 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:09,777 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 21:04:09,894 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 21:04:09,894 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 21:04:11,265 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 21:04:19,829 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 21:04:19,830 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:20,016 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 21:04:20,180 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 21:04:20,180 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 21:04:21,589 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 21:04:28,232 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 21:04:28,233 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:28,429 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 21:04:28,630 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 21:04:28,630 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 21:04:30,128 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 21:04:37,844 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 21:04:37,846 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:38,041 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 21:04:38,270 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 21:04:38,270 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 21:04:40,468 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 21:04:47,017 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 21:04:47,018 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:47,202 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 21:04:47,490 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 21:04:47,490 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 21:04:49,580 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 21:04:55,895 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 21:04:55,895 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:04:56,107 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 21:04:56,425 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 21:04:56,425 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 21:04:57,797 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 21:05:04,237 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 21:05:04,237 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:05:04,440 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 21:05:04,808 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 21:05:04,808 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 21:05:06,145 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 21:05:12,939 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 21:05:12,940 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:05:13,147 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 21:05:13,554 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 21:05:13,555 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 21:05:14,882 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 21:05:21,452 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 21:05:21,452 - logger.logger - INFO - Закрытие браузера
+2023-08-09 21:05:21,624 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 21:05:22,078 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 21:05:22,078 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 21:05:22,078 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 22:13:45,059 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 22:13:48,626 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 22:13:58,332 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:13:58,332 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:13:58,561 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:13:58,612 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 22:13:58,612 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 22:14:00,602 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 22:14:08,590 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:14:08,590 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:08,766 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:14:08,888 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 22:14:08,888 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 22:14:10,257 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 22:14:17,314 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:14:17,315 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:17,500 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:14:17,659 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 22:14:17,659 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 22:14:19,093 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 22:14:25,414 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:14:25,415 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:25,595 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:14:25,801 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 22:14:25,801 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 22:14:27,563 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 22:14:34,113 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:14:34,113 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:34,318 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:14:34,561 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 22:14:34,561 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 22:14:35,911 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 22:14:42,826 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:14:42,826 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:43,005 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:14:43,293 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 22:14:43,293 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 22:14:44,599 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 22:14:51,497 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:14:51,497 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:14:51,700 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:14:52,019 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 22:14:52,019 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 22:14:53,367 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 22:15:00,711 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:15:00,711 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:15:00,909 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:15:01,270 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 22:15:01,270 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 22:15:02,641 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 22:15:10,294 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:15:10,294 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:15:10,494 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:15:10,890 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 22:15:10,891 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 22:15:12,214 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 22:15:25,660 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:15:25,661 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:15:25,839 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:15:26,299 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 22:15:26,299 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 22:15:26,299 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 22:21:31,821 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 22:21:33,904 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 22:21:42,284 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:21:42,285 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:21:42,485 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:21:42,533 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 22:21:42,534 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 22:21:43,926 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 22:21:51,184 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:21:51,184 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:21:51,360 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:21:51,480 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 22:21:51,480 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 22:21:52,794 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 22:22:00,069 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:22:00,071 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:00,251 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:22:00,402 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 22:22:00,402 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 22:22:01,702 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 22:22:09,478 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:22:09,478 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:09,660 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:22:09,863 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 22:22:09,863 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 22:22:11,202 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 22:22:18,707 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:22:18,707 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:18,901 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:22:19,149 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 22:22:19,150 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 22:22:20,485 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 22:22:27,642 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:22:27,642 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:27,825 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:22:28,110 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 22:22:28,110 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 22:22:29,517 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 22:22:35,738 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:22:35,738 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:35,963 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:22:36,283 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 22:22:36,283 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 22:22:37,622 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 22:22:43,918 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:22:43,919 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:44,144 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:22:44,508 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 22:22:44,508 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 22:22:45,912 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 22:22:52,089 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:22:52,090 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:22:52,287 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:22:52,690 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 22:22:52,690 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 22:22:54,078 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 22:23:00,711 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:23:00,711 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:23:00,886 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:23:01,353 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 22:23:01,353 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 22:23:01,353 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 22:28:51,587 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 22:28:53,525 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 22:29:01,835 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:29:01,835 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:02,071 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:29:02,120 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 22:29:02,120 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 22:29:03,521 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 22:29:11,435 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:29:11,435 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:11,611 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:29:11,731 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 22:29:11,732 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 22:29:13,058 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 22:29:19,816 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:29:19,816 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:20,000 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:29:20,156 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 22:29:20,156 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 22:29:21,457 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 22:29:28,180 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:29:28,180 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:28,376 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:29:28,573 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 22:29:28,573 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 22:29:29,920 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 22:29:36,554 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:29:36,555 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:36,759 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:29:36,996 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 22:29:36,996 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 22:29:38,346 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 22:29:45,238 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:29:45,239 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:45,419 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:29:45,702 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 22:29:45,702 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 22:29:47,169 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 22:29:54,147 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:29:54,147 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:29:54,349 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:29:54,674 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 22:29:54,674 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 22:29:56,088 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 22:30:03,220 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:30:03,221 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:30:03,423 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:30:03,810 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 22:30:03,810 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 22:30:05,235 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 22:30:11,668 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:30:11,668 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:30:11,872 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:30:12,273 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 22:30:12,274 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 22:30:13,598 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 22:30:19,854 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:30:19,855 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:30:20,030 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:30:20,490 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 22:30:20,490 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 22:30:20,490 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 22:56:12,896 - logger.logger - INFO - Запуск парсера на 10 страниц
+2023-08-09 22:56:15,237 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 22:56:28,059 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:56:28,059 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:56:28,255 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 22:56:28,303 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 22:56:28,303 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 22:56:29,663 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 22:56:41,055 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:56:41,055 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:56:41,233 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 22:56:41,354 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 22:56:41,354 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 22:56:42,761 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 22:56:53,953 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:56:53,954 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:56:54,180 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 22:56:54,332 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 22:56:54,332 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 22:56:55,688 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 22:57:06,842 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:57:06,843 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:57:07,018 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 22:57:07,208 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 22:57:07,208 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 22:57:08,574 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 22:57:19,862 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:57:19,862 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:57:20,061 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 22:57:20,295 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 22:57:20,295 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 22:57:21,669 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 22:57:32,862 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:57:32,863 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:57:33,040 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 22:57:33,320 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 22:57:33,320 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 22:57:34,692 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 22:57:46,524 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:57:46,525 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:57:46,726 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 22:57:47,048 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 22:57:47,048 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 22:57:48,431 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 22:57:59,912 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:57:59,912 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:58:00,110 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 22:58:00,471 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 22:58:00,472 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 22:58:01,843 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 22:58:14,127 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:58:14,128 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:58:14,359 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 22:58:14,758 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 22:58:14,759 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 22:58:16,139 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 22:58:27,807 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:58:27,810 - logger.logger - INFO - Закрытие браузера
+2023-08-09 22:58:28,006 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 22:58:28,467 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 22:58:28,467 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 22:58:28,467 - logger.logger - INFO - Все задачи выполнены
+2023-08-09 23:33:47,282 - logger.logger - INFO - Запуск парсера на 15 страниц
+2023-08-09 23:33:50,735 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=1
+2023-08-09 23:34:03,719 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 23:34:03,719 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:34:03,932 - logger.logger - INFO - Страница 1 сохранена в файл: parser/src/html/page_1.html
+2023-08-09 23:34:03,989 - logger.logger - INFO - Все данные сохранены в Json co страницы: 1
+2023-08-09 23:34:03,989 - logger.logger - INFO - Все задачи выполнены обработанo 1
+2023-08-09 23:34:05,744 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=2
+2023-08-09 23:34:17,588 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 23:34:17,589 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:34:17,801 - logger.logger - INFO - Страница 2 сохранена в файл: parser/src/html/page_2.html
+2023-08-09 23:34:17,922 - logger.logger - INFO - Все данные сохранены в Json co страницы: 2
+2023-08-09 23:34:17,922 - logger.logger - INFO - Все задачи выполнены обработанo 2
+2023-08-09 23:34:20,341 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=3
+2023-08-09 23:34:31,518 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 23:34:31,519 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:34:31,714 - logger.logger - INFO - Страница 3 сохранена в файл: parser/src/html/page_3.html
+2023-08-09 23:34:31,869 - logger.logger - INFO - Все данные сохранены в Json co страницы: 3
+2023-08-09 23:34:31,869 - logger.logger - INFO - Все задачи выполнены обработанo 3
+2023-08-09 23:34:34,110 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=4
+2023-08-09 23:34:46,792 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 23:34:46,793 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:34:46,973 - logger.logger - INFO - Страница 4 сохранена в файл: parser/src/html/page_4.html
+2023-08-09 23:34:47,170 - logger.logger - INFO - Все данные сохранены в Json co страницы: 4
+2023-08-09 23:34:47,170 - logger.logger - INFO - Все задачи выполнены обработанo 4
+2023-08-09 23:34:48,551 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=5
+2023-08-09 23:35:00,726 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 23:35:00,727 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:35:00,946 - logger.logger - INFO - Страница 5 сохранена в файл: parser/src/html/page_5.html
+2023-08-09 23:35:01,184 - logger.logger - INFO - Все данные сохранены в Json co страницы: 5
+2023-08-09 23:35:01,184 - logger.logger - INFO - Все задачи выполнены обработанo 5
+2023-08-09 23:35:02,630 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=6
+2023-08-09 23:35:13,761 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 23:35:13,762 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:35:13,941 - logger.logger - INFO - Страница 6 сохранена в файл: parser/src/html/page_6.html
+2023-08-09 23:35:14,239 - logger.logger - INFO - Все данные сохранены в Json co страницы: 6
+2023-08-09 23:35:14,239 - logger.logger - INFO - Все задачи выполнены обработанo 6
+2023-08-09 23:35:15,691 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=7
+2023-08-09 23:35:26,833 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 23:35:26,833 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:35:27,061 - logger.logger - INFO - Страница 7 сохранена в файл: parser/src/html/page_7.html
+2023-08-09 23:35:27,378 - logger.logger - INFO - Все данные сохранены в Json co страницы: 7
+2023-08-09 23:35:27,378 - logger.logger - INFO - Все задачи выполнены обработанo 7
+2023-08-09 23:35:28,795 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=8
+2023-08-09 23:35:39,950 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 23:35:39,950 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:35:40,150 - logger.logger - INFO - Страница 8 сохранена в файл: parser/src/html/page_8.html
+2023-08-09 23:35:40,513 - logger.logger - INFO - Все данные сохранены в Json co страницы: 8
+2023-08-09 23:35:40,513 - logger.logger - INFO - Все задачи выполнены обработанo 8
+2023-08-09 23:35:41,909 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=9
+2023-08-09 23:35:53,663 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 23:35:53,663 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:35:53,859 - logger.logger - INFO - Страница 9 сохранена в файл: parser/src/html/page_9.html
+2023-08-09 23:35:54,278 - logger.logger - INFO - Все данные сохранены в Json co страницы: 9
+2023-08-09 23:35:54,278 - logger.logger - INFO - Все задачи выполнены обработанo 9
+2023-08-09 23:35:55,610 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=10
+2023-08-09 23:36:06,837 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 23:36:06,837 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:36:07,014 - logger.logger - INFO - Страница 10 сохранена в файл: parser/src/html/page_10.html
+2023-08-09 23:36:07,471 - logger.logger - INFO - Все данные сохранены в Json co страницы: 10
+2023-08-09 23:36:07,471 - logger.logger - INFO - Все задачи выполнены обработанo 10
+2023-08-09 23:36:08,878 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=11
+2023-08-09 23:36:19,993 - logger.logger - INFO - Страница 11 сохранена в файл: parser/src/html/page_11.html
+2023-08-09 23:36:19,994 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:36:20,176 - logger.logger - INFO - Страница 11 сохранена в файл: parser/src/html/page_11.html
+2023-08-09 23:36:20,698 - logger.logger - INFO - Все данные сохранены в Json co страницы: 11
+2023-08-09 23:36:20,698 - logger.logger - INFO - Все задачи выполнены обработанo 11
+2023-08-09 23:36:22,050 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=12
+2023-08-09 23:36:33,051 - logger.logger - INFO - Страница 12 сохранена в файл: parser/src/html/page_12.html
+2023-08-09 23:36:33,051 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:36:33,234 - logger.logger - INFO - Страница 12 сохранена в файл: parser/src/html/page_12.html
+2023-08-09 23:36:33,781 - logger.logger - INFO - Все данные сохранены в Json co страницы: 12
+2023-08-09 23:36:33,781 - logger.logger - INFO - Все задачи выполнены обработанo 12
+2023-08-09 23:36:35,228 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=13
+2023-08-09 23:36:46,283 - logger.logger - INFO - Страница 13 сохранена в файл: parser/src/html/page_13.html
+2023-08-09 23:36:46,283 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:36:46,461 - logger.logger - INFO - Страница 13 сохранена в файл: parser/src/html/page_13.html
+2023-08-09 23:36:47,059 - logger.logger - INFO - Все данные сохранены в Json co страницы: 13
+2023-08-09 23:36:47,059 - logger.logger - INFO - Все задачи выполнены обработанo 13
+2023-08-09 23:36:48,421 - logger.logger - INFO - Загрузка страницы https://www.ozon.ru/seller/proffi-1/products/?miniapp=seller_1&page=14
+2023-08-09 23:36:59,524 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
+2023-08-09 23:36:59,524 - logger.logger - INFO - Закрытие браузера
+2023-08-09 23:36:59,704 - logger.logger - INFO - Страница 14 сохранена в файл: parser/src/html/page_14.html
